@@ -1,0 +1,13 @@
+package movies;
+
+public interface FilmArchive {
+	
+	public void getSorted() {
+		return ArrayList<Movie>;
+	}
+	
+	public boolean add(Movie film) {
+		
+	}
+
+}
